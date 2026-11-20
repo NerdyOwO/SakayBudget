@@ -1,8 +1,8 @@
-# SakayBudget – Website
+# SakayBudget
 
 **A Budget-First Commuting Fare Estimation and Planning System for Filipino Commuters**
 
-SakayBudget is a web-based commuting fare estimation and budget planning system developed to help Filipino commuters calculate transportation costs and organize their daily or weekly commuting expenses. The website provides users with an accessible platform for estimating fares, planning journeys, and monitoring their transportation budget. It is designed to assist students, employees, and individuals who want to manage their commuting allowances more effectively.
+SakayBudget:Web is the web-based version of SakayBudget, a commuting fare estimation and budget planning system developed to help Filipino commuters calculate transportation costs and organize their daily or weekly commuting expenses. The website provides users with an accessible platform for estimating fares, planning journeys, and monitoring their transportation budget. It is designed to assist students, employees, and individuals who want to manage their commuting allowances more effectively.
 
 The website features a fare calculator that allows users to enter their origin and destination, select their preferred mode of transportation, and provide passenger details to generate an estimated fare. It supports different public transportation options, including traditional and modern jeepneys, ordinary and air-conditioned buses, and traditional and modern UV Express vehicles. Its fare calculations are based on official fare references published by the Land Transportation Franchising and Regulatory Board (LTFRB).
 
