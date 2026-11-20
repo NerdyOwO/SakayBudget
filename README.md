@@ -1,4 +1,4 @@
-# SakayBudget:Web
+# SakayBudget: Web
 
 **A Budget-First Commuting Fare Estimation and Planning System for Filipino Commuters**
 
